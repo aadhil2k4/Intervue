@@ -8,6 +8,7 @@
     "start": "node src/index.js"
   },
   "author": "Aadhil J",
+  "type": "module",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
